@@ -5,7 +5,7 @@
 hevc.sh [-f] <input> <output>
 ```
 # DESCRIPTION
-A simple Bash script that converts videos to
+A simple shell script that converts videos to
 [HEVC](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 (High Efficiency Video Coding).
 It depenends on the packages [ffmpeg & ffprobe](https://ffmpeg.org/) to produce
